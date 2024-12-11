@@ -1,0 +1,6 @@
+# 新版多语言海外投资理财系统/影视外汇虚拟币理财投资系统
+
+<br>适用：项目投资、影视投资、理财投资、充电宝项目、外汇、基金、国际大宗商品、虚拟货币投资等。<br>语言：前端VUE、后端thinkPHP、数据库MySql。系统全开源带前端vue源码跟完整安装教程<br>语言：中简、中繁、英、泰、越、韩、日、马来、土耳其、西班牙、葡萄牙、印尼、德、法14种语言，支持二开其他语言。<br>收款：微信扫码、支付宝扫码、银行卡转账、优盾USDT（手动、自动到账，自动需自行升级优盾钱包套餐）。<br>付款：银行卡、优盾USDT（手动、自动到账，自动需自行升级优盾钱包套餐）。<br>收付款对接了优盾钱包，可实现USDT自动充提，具体价格请自行查看优盾官网，没有合作，用不用请自己选择哦<br>功能卖点<br>可使用多种注册方式<br>无限极分销机制，用户邀请朋友能获得对应充值的百分比奖励<br>储蓄金（余额宝）功能，支持申购、赎回<br>积分商城，签到积分可兑换对应商品<br>项目支持K线生成，更加真实有效<br>VIP等级划分，可根据不同等级，设置不同的百分比奖励<br>可根据访问IP自动切换对应语言<br>多达14种语言，可自定义显示隐藏，灵活多变<br>支持多种客服方式<br>可根据所选语言，显示对应货币资金金额，对接了汇率接口，自动更新汇率<br>多种充值方式，可做到USDT自动充提，省去人工费用<br>支持多种投资方式，增大客户粘性<br>特有的转盘抽奖系统，可玩性更高<br>多种认证方式，提高用户账号安全性<br>可控制IP注册数量，防止水军刷水<br>可设置充值需要投资才可提现，杜绝洗钱行为<br>对接了短信宝，可发送国际或国内短信<br>邮箱发送验证码使用SMTP，支持多种邮箱<br>后台IP白名单、后台谷歌验证登录，更加安全<br><br><br><br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/oYoC8" style="color: red;">https://mega-file.org/oYoC8</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
